@@ -385,6 +385,8 @@ items:
       - text: Install Kong Mesh with Windows
         url: /production/install/windows/
         src: installation/windows
+      - text: Auditing
+        url: /features/access-audit
   - title: Guides
     icon: /assets/images/icons/documentation/icn-solution-guide.svg
     items:
